@@ -4,6 +4,7 @@
 Financial fraud is costly and difficult to detect manually at scale. 
 This project explores how Large Language Models can be used to flag 
 anomalies in credit card transaction data — simulating a real compliance workflow.
+
 Note: LLM analysis was run on a 5,000 transaction sample due to API cost constraints. Production implementation would require batch processing or a self-hosted model.
 
 ## Data
